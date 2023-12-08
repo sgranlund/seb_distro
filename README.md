@@ -1,2 +1,2 @@
 https://www.linuxfromscratch.org/lfs/view/stable-systemd/
-https://www.youtube.com/watch?v=WN4K8o1aILA&ab_channel=LowLevelDevel
+https://www.youtube.com/playlist?list=PLVxiWMqQvhg-ilU5EaKqECNbMlLZ4-Ztc
